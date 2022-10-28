@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "983045988182",
+    "firebase_url": "https://icabflutter-default-rtdb.firebaseio.com",
+    "project_id": "icabflutter",
+    "storage_bucket": "icabflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983045988182:android:79093c97a355c2769f80f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_icab_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983045988182-07gp4cu767b436ou30duls0u7c0lqran.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjXXuF5n55R0RdwjbftdZjRGbY17sE6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983045988182-07gp4cu767b436ou30duls0u7c0lqran.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983045988182-i8a5850t0g9phpibqedin3pfvvvj7g76.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testFirebaseAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983045988182:android:d398e05f066a64fa9f80f7",
+        "android_client_info": {
+          "package_name": "com.example.test_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983045988182-07gp4cu767b436ou30duls0u7c0lqran.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjXXuF5n55R0RdwjbftdZjRGbY17sE6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983045988182-07gp4cu767b436ou30duls0u7c0lqran.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983045988182-i8a5850t0g9phpibqedin3pfvvvj7g76.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testFirebaseAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
